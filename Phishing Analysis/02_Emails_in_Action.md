@@ -58,3 +58,6 @@ Went through six different phishing samples in this room, each demonstrating a d
 - **Brand impersonation** — real company logos/HTML templates borrowed to build instant trust
 - **Hiding the real destination** — via shortened links, redirect chains, or burying links inside attachments (PDF, Word, Excel) instead of the email body
 - **The payload isn't always malware** — several of these existed purely to steal credentials through fake login pages, not to install anything
+
+---
+This all cases are practical seen at this [THM Room](https://tryhackme.com/room/phishingemails2rytmuv)
